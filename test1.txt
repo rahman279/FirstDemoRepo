@@ -1,10 +1,1 @@
- Volume in drive F is New Volume
- Volume Serial Number is 58CC-B69A
-
- Directory of F:\javaprograms\GitDemoProject
-
-03/17/2020  10:53 PM    <DIR>          .
-03/17/2020  10:53 PM    <DIR>          ..
-03/17/2020  10:53 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  121,108,062,208 bytes free
+test1 file
